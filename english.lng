@@ -1,0 +1,6 @@
+##grflangid 0x01
+
+STR_GRF_NAME                 :Iron Horse 0-8-0 Addon
+STR_GRF_DESC                 :{ORANGE}Addon for andythenorth's Iron Horse trains pack{}{BLACK}This NewGRF contains a heavy pre-grouping 0-8-0 goods locomotive based on LNWR and LYR classes.
+STR_MINERAL_NAME                 :0-8-0 Mineral (Steam)
+STR_DESCRIPTION:{ORANGE}Role:{BLACK} Freight
